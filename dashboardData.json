@@ -1,0 +1,91 @@
+{
+  "dashboardSummary": {
+    "totalUsers": 1200,
+    "pendingTasks": 250,
+    "completedTasks": 950
+  },
+  "barChartData": [
+    {
+      "pillar": "CFC",
+      "tasksGiven": 150
+    },
+    {
+      "pillar": "IIPC",
+      "tasksGiven": 200
+    },
+    {
+      "pillar": "SRI",
+      "tasksGiven": 175
+    },
+    {
+      "pillar": "CLT",
+      "tasksGiven": 220
+    },
+    {
+      "pillar": "SCD",
+      "tasksGiven": 140
+    }
+  ],
+  "areaChartData": [
+    {
+      "month": "January",
+      "activeStudents": 300,
+      "activeFaculty": 50
+    },
+    {
+      "month": "February",
+      "activeStudents": 320,
+      "activeFaculty": 48
+    },
+    {
+      "month": "March",
+      "activeStudents": 350,
+      "activeFaculty": 52
+    },
+    {
+      "month": "April",
+      "activeStudents": 400,
+      "activeFaculty": 60
+    },
+    {
+      "month": "May",
+      "activeStudents": 420,
+      "activeFaculty": 58
+    },
+    {
+      "month": "June",
+      "activeStudents": 380,
+      "activeFaculty": 55
+    },
+    {
+      "month": "July",
+      "activeStudents": 450,
+      "activeFaculty": 62
+    },
+    {
+      "month": "August",
+      "activeStudents": 460,
+      "activeFaculty": 63
+    },
+    {
+      "month": "September",
+      "activeStudents": 480,
+      "activeFaculty": 65
+    },
+    {
+      "month": "October",
+      "activeStudents": 490,
+      "activeFaculty": 66
+    },
+    {
+      "month": "November",
+      "activeStudents": 500,
+      "activeFaculty": 70
+    },
+    {
+      "month": "December",
+      "activeStudents": 520,
+      "activeFaculty": 72
+    }
+  ]
+}
